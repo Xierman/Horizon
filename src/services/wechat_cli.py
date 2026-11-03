@@ -157,9 +157,9 @@ async def _run_test(config: WeChatConfig, storage: StorageManager, lang: str, dr
         console.print(f"Language '{lang}' is filtered out by wechat.languages.")
         return
     sample = (
-        "# Horizon 微信推送测试\n\n这是一条测试消息。\n\n[Horizon](https://github.com/Thysrael/Horizon)"
+        "# Horizon 微信推送测试\n\n这是一条测试消息。\n\n[Horizon](https://github.com/Xierman/Horizon)"
         if lang == "zh" else
-        "# Horizon WeChat test\n\nThis is a test message.\n\n[Horizon](https://github.com/Thysrael/Horizon)"
+        "# Horizon WeChat test\n\nThis is a test message.\n\n[Horizon](https://github.com/Xierman/Horizon)"
     )
     if dry_run:
         # A preview neither loads credentials nor connects to WeChat.

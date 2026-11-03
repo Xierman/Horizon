@@ -4,17 +4,17 @@
 
 <p><strong>你只需享受新闻，剩下交给 Horizon。</strong></p>
 
-<a href="https://trendshift.io/repositories/22864?utm_source=trendshift-badge&amp;utm_medium=badge&amp;utm_campaign=badge-trendshift-22864" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/trendshift/repositories/22864/daily" alt="Thysrael%2FHorizon | Trendshift" width="250" height="55"/></a>
-<a href="https://trendshift.io/repositories/22864?utm_source=trendshift-badge&amp;utm_medium=badge&amp;utm_campaign=badge-trendshift-22864" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/trendshift/repositories/22864/daily?language=Python" alt="Thysrael%2FHorizon | Trendshift" width="250" height="55"/></a>
-<a href="https://hellogithub.com/repository/Thysrael/Horizon" target="_blank"><img src="https://abroad.hellogithub.com/v1/widgets/recommend.svg?rid=7a4b606e28e4477998d35851cf4fdddf&claim_uid=rtjnLkYT7ziQJUG" alt="Featured｜HelloGitHub" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+<a href="https://trendshift.io/repositories/22864?utm_source=trendshift-badge&amp;utm_medium=badge&amp;utm_campaign=badge-trendshift-22864" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/trendshift/repositories/22864/daily" alt="Xierman%2FHorizon | Trendshift" width="250" height="55"/></a>
+<a href="https://trendshift.io/repositories/22864?utm_source=trendshift-badge&amp;utm_medium=badge&amp;utm_campaign=badge-trendshift-22864" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/trendshift/repositories/22864/daily?language=Python" alt="Xierman%2FHorizon | Trendshift" width="250" height="55"/></a>
+<a href="https://hellogithub.com/repository/Xierman/Horizon" target="_blank"><img src="https://abroad.hellogithub.com/v1/widgets/recommend.svg?rid=7a4b606e28e4477998d35851cf4fdddf&claim_uid=rtjnLkYT7ziQJUG" alt="Featured｜HelloGitHub" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 <br>
 
 [![License](https://img.shields.io/badge/license-MIT-green.svg?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](LICENSE)
 [![Tool uv](https://img.shields.io/badge/Tool-uv-4B275F?style=for-the-badge&logo=uv&logoColor=white)](https://github.com/astral-sh/uv)
 [![Website](https://img.shields.io/badge/Website-Horizon-263238?style=for-the-badge&logo=homepage&logoColor=white)](https://www.horizon1123.top/)
-[![Daily](https://img.shields.io/github/actions/workflow/status/Thysrael/Horizon/deploy-docs.yml?branch=main&label=Daily&style=for-the-badge&logo=date-fns&logoColor=white)](https://thysrael.github.io/Horizon/)
-[![Commit](https://img.shields.io/github/commit-activity/m/Thysrael/Horizon?label=Commit&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thysrael/Horizon/commits/main)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thysrael/Horizon/pulls)
+[![Daily](https://img.shields.io/github/actions/workflow/status/Xierman/Horizon/deploy-docs.yml?branch=main&label=Daily&style=for-the-badge&logo=date-fns&logoColor=white)](https://xierman.github.io/Horizon/)
+[![Commit](https://img.shields.io/github/commit-activity/m/Xierman/Horizon?label=Commit&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Xierman/Horizon/commits/main)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Xierman/Horizon/pulls)
 ![Sources Welcome](https://img.shields.io/badge/sources-welcome-f97316?style=for-the-badge&logo=rss&logoColor=white)
 
 ![Claude](https://img.shields.io/badge/Claude-f0daba?style=flat-square&logo=anthropic&logoColor=black)
@@ -28,7 +28,7 @@
 
 📡 构建你专属的 AI 新闻雷达，生成中英双语日报。 | Your own AI-powered news radar.
 
-[📖 在线演示](https://thysrael.github.io/Horizon/) · [📋 配置指南](https://thysrael.github.io/Horizon/configuration) · [💬 QQ 群](#交流群) · [English](README.md) · [日本語](README_ja.md)
+[📖 在线演示](https://xierman.github.io/Horizon/) · [📋 配置指南](https://xierman.github.io/Horizon/configuration) · [💬 QQ 群](#交流群) · [English](README.md) · [日本語](README_ja.md)
 
 </div>
 
@@ -113,7 +113,7 @@
 
 ## 赞助
 
-Horizon 是一个业余时间维护的开源项目。如果你愿意支持这个项目，或希望出现在这里，欢迎[创建一个 Issue](https://github.com/Thysrael/Horizon/issues/new) 或[发邮件](mailto:thysrael@163.com)联系我。
+Horizon 是一个业余时间维护的开源项目。如果你愿意支持这个项目，或希望出现在这里，欢迎[创建一个 Issue](https://github.com/Xierman/Horizon/issues/new) 或[发邮件](mailto:thysrael@163.com)联系我。
 
 | 支持方 | 说明 |
 |--------|------|
@@ -127,10 +127,10 @@ Horizon 是一个业余时间维护的开源项目。如果你愿意支持这个
 让 AI 助手帮你配置信息源、定制 Profile、生成日报：
 
 ```bash
-npx skills add Thysrael/Horizon --skill horizon -g
+npx skills add Xierman/Horizon --skill horizon -g
 ```
 
-[安装与使用](docs/agent-skill.md) · [下载 Skill ZIP](https://thysrael.github.io/Horizon/downloads/horizon-skill.zip)
+[安装与使用](docs/agent-skill.md) · [下载 Skill ZIP](https://xierman.github.io/Horizon/downloads/horizon-skill.zip)
 
 安装命令需要 Node.js 22.20+。装好 Skill 后，可以直接说“帮我安装并配置 Horizon”，也可按下方步骤手动安装。
 
@@ -141,7 +141,7 @@ npx skills add Thysrael/Horizon --skill horizon -g
 #### 方式 A：本地安装
 
 ```bash
-git clone https://github.com/Thysrael/Horizon.git
+git clone https://github.com/Xierman/Horizon.git
 cd horizon
 
 # 使用 uv 安装（推荐）
@@ -171,7 +171,7 @@ uv pip install --only-binary=:all: openbb openbb-benzinga
 #### 方式 B：Docker
 
 ```bash
-git clone https://github.com/Thysrael/Horizon.git
+git clone https://github.com/Xierman/Horizon.git
 cd horizon
 
 # 可选：首次运行前构建逗号分隔的 extras

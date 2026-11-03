@@ -41,7 +41,7 @@ installation.
    using their official platform-specific instructions where the environment
    permits it. If network or shell access is unavailable, report that concrete
    blocker and the next step the user needs to take.
-3. Clone `https://github.com/Thysrael/Horizon.git` into the chosen directory when
+3. Clone `https://github.com/Xierman/Horizon.git` into the chosen directory when
    needed. Read its repository instructions and README Quick Start, then follow
    those installation steps in a project-local environment. Use the checked-out
    documentation as the source of truth for dependencies and optional extras.

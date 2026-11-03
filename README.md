@@ -3,17 +3,17 @@
 
 <p><strong>Enjoy the News itself. Leave others to Horizon</strong></p>
 
-<a href="https://trendshift.io/repositories/22864?utm_source=trendshift-badge&amp;utm_medium=badge&amp;utm_campaign=badge-trendshift-22864" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/trendshift/repositories/22864/daily" alt="Thysrael%2FHorizon | Trendshift" width="250" height="55"/></a>
-<a href="https://trendshift.io/repositories/22864?utm_source=trendshift-badge&amp;utm_medium=badge&amp;utm_campaign=badge-trendshift-22864" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/trendshift/repositories/22864/daily?language=Python" alt="Thysrael%2FHorizon | Trendshift" width="250" height="55"/></a>
-<a href="https://hellogithub.com/repository/Thysrael/Horizon" target="_blank"><img src="https://abroad.hellogithub.com/v1/widgets/recommend.svg?rid=7a4b606e28e4477998d35851cf4fdddf&claim_uid=rtjnLkYT7ziQJUG" alt="Featured｜HelloGitHub" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+<a href="https://trendshift.io/repositories/22864?utm_source=trendshift-badge&amp;utm_medium=badge&amp;utm_campaign=badge-trendshift-22864" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/trendshift/repositories/22864/daily" alt="Xierman%2FHorizon | Trendshift" width="250" height="55"/></a>
+<a href="https://trendshift.io/repositories/22864?utm_source=trendshift-badge&amp;utm_medium=badge&amp;utm_campaign=badge-trendshift-22864" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/trendshift/repositories/22864/daily?language=Python" alt="Xierman%2FHorizon | Trendshift" width="250" height="55"/></a>
+<a href="https://hellogithub.com/repository/Xierman/Horizon" target="_blank"><img src="https://abroad.hellogithub.com/v1/widgets/recommend.svg?rid=7a4b606e28e4477998d35851cf4fdddf&claim_uid=rtjnLkYT7ziQJUG" alt="Featured｜HelloGitHub" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 <br>
 
 [![License](https://img.shields.io/badge/license-MIT-green.svg?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](LICENSE)
 [![Tool uv](https://img.shields.io/badge/Tool-uv-4B275F?style=for-the-badge&logo=uv&logoColor=white)](https://github.com/astral-sh/uv)
 [![Website](https://img.shields.io/badge/Website-Horizon-263238?style=for-the-badge&logo=homepage&logoColor=white)](https://www.horizon1123.top/)
-[![Daily](https://img.shields.io/github/actions/workflow/status/Thysrael/Horizon/deploy-docs.yml?branch=main&label=Daily&style=for-the-badge&logo=date-fns&logoColor=white)](https://thysrael.github.io/Horizon/)
-[![Commit](https://img.shields.io/github/commit-activity/m/Thysrael/Horizon?label=Commit&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thysrael/Horizon/commits/main)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thysrael/Horizon/pulls)
+[![Daily](https://img.shields.io/github/actions/workflow/status/Xierman/Horizon/deploy-docs.yml?branch=main&label=Daily&style=for-the-badge&logo=date-fns&logoColor=white)](https://xierman.github.io/Horizon/)
+[![Commit](https://img.shields.io/github/commit-activity/m/Xierman/Horizon?label=Commit&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Xierman/Horizon/commits/main)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Xierman/Horizon/pulls)
 ![Sources Welcome](https://img.shields.io/badge/sources-welcome-f97316?style=for-the-badge&logo=rss&logoColor=white)
 
 ![Claude](https://img.shields.io/badge/Claude-f0daba?style=flat-square&logo=anthropic&logoColor=black)
@@ -27,7 +27,7 @@
 
 📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. | 构建你专属的 AI 新闻雷达
 
-[📖 Live Demo](https://thysrael.github.io/Horizon/) · [📋 Configuration Guide](https://thysrael.github.io/Horizon/configuration) · [💬 QQ Group](#community) · [简体中文](README_zh.md) · [日本語](README_ja.md)
+[📖 Live Demo](https://xierman.github.io/Horizon/) · [📋 Configuration Guide](https://xierman.github.io/Horizon/configuration) · [💬 QQ Group](#community) · [简体中文](README_zh.md) · [日本語](README_ja.md)
 
 </div>
 
@@ -115,10 +115,10 @@ Run the full pipeline through the CLI, or let an AI assistant call its stages th
 Let your AI assistant configure sources, customize Profiles, and run Horizon:
 
 ```bash
-npx skills add Thysrael/Horizon --skill horizon -g
+npx skills add Xierman/Horizon --skill horizon -g
 ```
 
-[Setup and usage](docs/agent-skill.md) · [Download Skill ZIP](https://thysrael.github.io/Horizon/downloads/horizon-skill.zip)
+[Setup and usage](docs/agent-skill.md) · [Download Skill ZIP](https://xierman.github.io/Horizon/downloads/horizon-skill.zip)
 
 The command requires Node.js 22.20+. Then ask your assistant to install and configure Horizon, or follow the Quick Start below.
 
@@ -129,7 +129,7 @@ The command requires Node.js 22.20+. Then ask your assistant to install and conf
 **Option A: Local Installation**
 
 ```bash
-git clone https://github.com/Thysrael/Horizon.git
+git clone https://github.com/Xierman/Horizon.git
 cd Horizon
 
 # Install with uv (recommended)
@@ -159,7 +159,7 @@ uv pip install --only-binary=:all: openbb openbb-benzinga
 **Option B: Docker**
 
 ```bash
-git clone https://github.com/Thysrael/Horizon.git
+git clone https://github.com/Xierman/Horizon.git
 cd Horizon
 
 # Optional: build with comma-separated extras before the first run
@@ -336,7 +336,7 @@ For delivery setup, see the [Configuration Guide](docs/configuration.md). To run
 
 ## Supported By
 
-Horizon is an open-source project maintained in spare time. If you'd like to support the project or be listed here, feel free to [open an issue](https://github.com/Thysrael/Horizon/issues/new) or [email me](mailto:thysrael@163.com).
+Horizon is an open-source project maintained in spare time. If you'd like to support the project or be listed here, feel free to [open an issue](https://github.com/Xierman/Horizon/issues/new) or [email me](mailto:thysrael@163.com).
 
 | Supporter | Details |
 |-----------|---------|

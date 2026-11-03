@@ -5,7 +5,7 @@ title: Agent Skill
 
 # Horizon Agent Skill
 
-The [Horizon skill](https://github.com/Thysrael/Horizon/tree/main/skills/horizon)
+The [Horizon skill](https://github.com/Xierman/Horizon/tree/main/skills/horizon)
 helps an AI assistant configure a news radar, generate and tune digests, create
 Profiles, schedule delivery, and contribute code. Horizon continues to run the
 AI pipeline with the model and credentials in its own configuration.
@@ -15,7 +15,7 @@ AI pipeline with the model and credentials in its own configuration.
 Choose one of the installation methods below. You can install the skill first,
 then ask your assistant to install and configure Horizon. With shell and network
 access, the assistant can prepare a checkout and its Python environment using
-the [README](https://github.com/Thysrael/Horizon#quick-start). Running tasks needs
+the [README](https://github.com/Xierman/Horizon#quick-start). Running tasks needs
 Python 3.11+ and Horizon's dependencies. The skill and checkout may live at
 different paths.
 
@@ -24,7 +24,7 @@ different paths.
 With Node.js 22.20 or later, run:
 
 ```bash
-npx skills add Thysrael/Horizon --skill horizon -g
+npx skills add Xierman/Horizon --skill horizon -g
 ```
 
 The [Skills CLI](https://github.com/vercel-labs/skills) discovers the skill in this
@@ -35,7 +35,7 @@ example `-a opencode`.
 
 ### Download a skill package
 
-[Download horizon-skill.zip](https://thysrael.github.io/Horizon/downloads/horizon-skill.zip).
+[Download horizon-skill.zip](https://xierman.github.io/Horizon/downloads/horizon-skill.zip).
 The archive contains the complete `horizon/` skill directory, including scripts,
 references, and the project license. Import it using your assistant's local-package
 installer, or extract it and place the `horizon/` directory in the destination
