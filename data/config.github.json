@@ -79,7 +79,7 @@
       {
         "name": "vLLM Blog",
         "url": "https://vllm.ai/blog/rss.xml",
-        "enabled": true,
+        "enabled": false,
         "category": "llm-inference",
         "profile": "tech-blog",
         "content_extractor": "trafilatura"
@@ -117,7 +117,7 @@
       {
         "name": "LWN.net",
         "url": "https://lwn.net/headlines/full_text?key=${LWN_KEY}",
-        "enabled": true,
+        "enabled": false,
         "category": "linux-kernel",
         "profile": "tech-news"
       }
