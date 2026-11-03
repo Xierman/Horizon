@@ -126,22 +126,34 @@
       "enabled": true,
       "subreddits": [
         {
-          "subreddit": "MachineLearning",
+          "subreddit": "ChristmasDecorating",
           "enabled": true,
           "sort": "hot",
           "time_filter": "day",
-          "fetch_limit": 10,
-          "min_score": 60,
-          "profile": "tech-news"
+          "fetch_limit": 20,
+          "min_score": 10,
+          "category": "christmas",
+          "profile": "auto"
         },
         {
-          "subreddit": "LocalLLaMA",
+          "subreddit": "ChristmasGiftIdeas",
           "enabled": true,
           "sort": "hot",
-          "time_filter": "day",
-          "fetch_limit": 10,
-          "min_score": 60,
-          "profile": "tech-news"
+          "time_filter": "week",
+          "fetch_limit": 20,
+          "min_score": 10,
+          "category": "christmas",
+          "profile": "auto"
+        },
+        {
+          "subreddit": "Ornaments",
+          "enabled": true,
+          "sort": "hot",
+          "time_filter": "week",
+          "fetch_limit": 20,
+          "min_score": 5,
+          "category": "christmas",
+          "profile": "auto"
         }
       ],
       "users": [],
